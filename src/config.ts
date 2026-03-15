@@ -3,7 +3,7 @@ export const SITE = {
   author: "Alkın Deniz",
   profile: "",
   desc: "Alkın's Profesional Website",
-  title: "Alkın",
+  title: "Alkın Deniz",
   ogImage: "alkin-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
